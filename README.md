@@ -15,7 +15,7 @@
     <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linkedin.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:m_sozonov@outlook.com">
-    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftoutlook.svg" width="50" height="40" alt="microsoft-outlook logo" />
+    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftoutlook.svg" width="52" height="40" alt="microsoft-outlook logo" />
   </a>
   <a href="https://t.me/s0_mix">
     <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/telegram.svg" width="52" height="40" alt="telegram logo" />
@@ -31,9 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linux.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
