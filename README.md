@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
    <a href="https://www.linkedin.com/in/mikhail-sozonov/">
-    <img src="https://github.com/FGJ666/FGJ666/blob/main/linkedin%20(1).svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://github.com/FGJ666/FGJ666/blob/main/linkedin2.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:m_sozonov@outlook.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
