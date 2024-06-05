@@ -60,7 +60,13 @@
   <img width="12" />
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/clickhouse.svg" height="40" alt="clickhouse logo" />
   <img width="12" />
+
+  <!-- Визуализация -->
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/redash.svg" height="40" alt="redash logo" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/tableau.svg" height="40" alt="tableau logo" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/plotly.svg" height="40" alt="plotly logo" />
   <img width="12" />
   
   <!-- Обработка данных и рабочие процессы -->
@@ -76,8 +82,6 @@
   <img width="12" />
   
   <!-- Другие инструменты -->
-  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/tableau.svg" height="40" alt="tableau logo" />
-  <img width="12" />
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftexcel.svg" height="40" alt="microsoftexcel logo" />
   <img width="12" />
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linux.svg" height="40" alt="linux logo" />
