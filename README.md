@@ -107,11 +107,12 @@
 
 <img src="https://raw.githubusercontent.com/FGJ666/FGJ666/output/snake.svg" alt="Snake animation" />
 
+<!--
 ###
 
 <h2 align="left"></h2>
 
-<!--
+
 ###
 
 <div align="center">
