@@ -11,16 +11,17 @@
 ###
 
 <div align="center">
-  <a href="(https://www.linkedin.com/in/mikhail-sozonov/)">
+  <a href="https://www.linkedin.com/in/mikhail-sozonov/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="m_sozonov@outlook.com">
+  <a href="mailto:m_sozonov@outlook.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
   </a>
-  <a href="(https://t.me/s0_mix)">
+  <a href="https://t.me/s0_mix">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
+
 
 
 ###
