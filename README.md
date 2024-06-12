@@ -11,17 +11,17 @@
 ###
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/mikhail-sozonov/">
-    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linkedin.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/mikhail-sozonov/">
+    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linkedin.svg" width="52" height="40" alt="linkedin logo" title="linkedin" />
   </a>
   <a href="mailto:m_sozonov@outlook.com">
-    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftoutlook.svg" width="52" height="40" alt="microsoft-outlook logo" />
+    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftoutlook.svg" width="52" height="40" alt="microsoft-outlook logo" title="microsoft-outlook" />
   </a>
   <a href="https://t.me/s0_mix">
-    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/telegram.svg" width="52" height="40" alt="telegram logo" />
+    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/telegram.svg" width="52" height="40" alt="telegram logo" title="telegram" />
   </a>
-   <a href="https://www.kaggle.com/fgjj00">
-    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/kaggle.svg" width="52" height="40" alt="telegram logo" />
+  <a href="https://www.kaggle.com/fgjj00">
+    <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/kaggle.svg" width="52" height="40" alt="kaggle logo" title="kaggle" />
   </a>
 </div>
 
