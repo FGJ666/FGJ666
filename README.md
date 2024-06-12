@@ -106,4 +106,6 @@
 
 <h2 align="left"></h2>
 
+![Visitor Count](https://shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/FGJ666/FGJ666&label=Visitors&query=value&color=gray&style=flat-square)
+
 ###
