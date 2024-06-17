@@ -51,17 +51,6 @@
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/scipy.svg" height="40" alt="scipy logo" title="scipy" />
   <img width="12" />
 
-  <!-- Инструменты и среды разработки -->
-  <h2 style="color:#b9b9b9;">Tools and Development Environments</h2>
-  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/jupyter.svg" height="40" alt="jupyter logo" title="jupyter" />
-  <img width="12" />
-  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/visualstudiocode.svg" height="40" alt="vscode logo" title="visual studio code" />
-  <img width="12" />
-  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/git.svg" height="40" alt="git logo" title="git" />
-  <img width="12" />
-  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/anaconda.svg" height="40" alt="anaconda logo" title="anaconda" />
-  <img width="12" />
-
   <!-- Базы данных и управление данными -->
   <h2 style="color:#b9b9b9;">Databases and Data Management</h2>
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/postgresql.svg" height="40" alt="postgresql logo" title="postgresql" />
@@ -90,6 +79,17 @@
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/qgis.svg" height="40" alt="qgis logo" title="qgis" />
   <img width="12" />
   <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/arcgis.svg" height="40" alt="arcgis logo" title="arcgis" />
+  <img width="12" />
+
+   <!-- Инструменты и среды разработки -->
+  <h2 style="color:#b9b9b9;">Tools and Development Environments</h2>
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/jupyter.svg" height="40" alt="jupyter logo" title="jupyter" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/visualstudiocode.svg" height="40" alt="vscode logo" title="visual studio code" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/git.svg" height="40" alt="git logo" title="git" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/anaconda.svg" height="40" alt="anaconda logo" title="anaconda" />
   <img width="12" />
 
   <!-- Другие инструменты -->
