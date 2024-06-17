@@ -34,123 +34,61 @@
 ###
 
 <div align="center">
-
   <!-- Языки программирования -->
   <h2 style="color:#b9b9b9;">Programming Languages</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/python.svg" height="40" alt="python logo" title="python" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/python.svg" height="40" alt="python logo" title="python" />
+  <img width="12" />
   <!-- Аналитика и наука о данных -->
   <h2 style="color:#b9b9b9;">Data Analytics and Data Science</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/pandas.svg" height="40" alt="pandas logo" title="pandas" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/numpy.svg" height="40" alt="numpy logo" title="numpy" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/scikitlearn.svg" height="40" alt="scikitlearn logo" title="scikit-learn" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/scipy.svg" height="40" alt="scipy logo" title="scipy" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/pandas.svg" height="40" alt="pandas logo" title="pandas" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/numpy.svg" height="40" alt="numpy logo" title="numpy" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/scikitlearn.svg" height="40" alt="scikitlearn logo" title="scikit-learn" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/scipy.svg" height="40" alt="scipy logo" title="scipy" />
+  <img width="12" />
   <!-- Базы данных и управление данными -->
   <h2 style="color:#b9b9b9;">Databases and Data Management</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/postgresql.svg" height="40" alt="postgresql logo" title="postgresql" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/clickhouse.svg" height="40" alt="clickhouse logo" title="clickhouse" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/postgresql.svg" height="40" alt="postgresql logo" title="postgresql" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/clickhouse.svg" height="40" alt="clickhouse logo" title="clickhouse" />
+  <img width="12" />
   <!-- Визуализация -->
   <h2 style="color:#b9b9b9;">Data Visualization</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/redash.svg" height="40" alt="redash logo" title="redash" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/tableau.svg" height="40" alt="tableau logo" title="tableau" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/plotly.svg" height="40" alt="plotly logo" title="plotly" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/redash.svg" height="40" alt="redash logo" title="redash" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/tableau.svg" height="40" alt="tableau logo" title="tableau" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/plotly.svg" height="40" alt="plotly logo" title="plotly" />
+  <img width="12" />
   <!-- Обработка данных и рабочие процессы -->
   <h2 style="color:#b9b9b9;">Data Processing and Workflows</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/apacheairflow.svg" height="40" alt="apacheairflow logo" title="apache airflow" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/apachehadoop.svg" height="40" alt="apachehadoop logo" title="apache hadoop" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/apacheairflow.svg" height="40" alt="apacheairflow logo" title="apache airflow" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/apachehadoop.svg" height="40" alt="apachehadoop logo" title="apache hadoop" />
+  <img width="12" />
   <!-- Географические информационные системы -->
   <h2 style="color:#b9b9b9;">Geographic Information Systems</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/qgis.svg" height="40" alt="qgis logo" title="qgis" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/arcgis.svg" height="40" alt="arcgis logo" title="arcgis" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Инструменты и среды разработки -->
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/qgis.svg" height="40" alt="qgis logo" title="qgis" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/arcgis.svg" height="40" alt="arcgis logo" title="arcgis" />
+  <img width="12" />
+   <!-- Инструменты и среды разработки -->
   <h2 style="color:#b9b9b9;">Tools and Development Environments</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/jupyter.svg" height="40" alt="jupyter logo" title="jupyter" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/visualstudiocode.svg" height="40" alt="vscode logo" title="visual studio code" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/git.svg" height="40" alt="git logo" title="git" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/anaconda.svg" height="40" alt="anaconda logo" title="anaconda" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/jupyter.svg" height="40" alt="jupyter logo" title="jupyter" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/visualstudiocode.svg" height="40" alt="vscode logo" title="visual studio code" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/git.svg" height="40" alt="git logo" title="git" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/anaconda.svg" height="40" alt="anaconda logo" title="anaconda" />
+  <img width="12" />
   <!-- Другие инструменты -->
   <h2 style="color:#b9b9b9;">Other Tools</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftexcel.svg" height="40" alt="microsoftexcel logo" title="microsoft excel" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linux.svg" height="40" alt="linux logo" title="linux" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/microsoftexcel.svg" height="40" alt="microsoftexcel logo" title="microsoft excel" />
+  <img width="12" />
+  <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/linux.svg" height="40" alt="linux logo" title="linux" />
 </div>
 
 ###
