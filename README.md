@@ -76,7 +76,7 @@
         <img width="12" />
         <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/plotly.svg" height="40" alt="plotly logo" title="plotly" />
         <img width="12" />
-        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/power-bi.svg" height="40" alt="plotly logo" title="plotly" />
+        <img src="https://github.com/FGJ666/FGJ666/blob/main/svg/power-bi.svg" height="40" alt="power bi" title="power bi" />
       </td>
     </tr>
   </table>
